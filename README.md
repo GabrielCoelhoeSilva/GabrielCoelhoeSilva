@@ -22,6 +22,7 @@ Estou construindo projetos pessoais para aprimorar minhas habilidades práticas 
 
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCoelhoeSilva&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCoelhoeSilva&show_icons=true&theme=radical)
 
 ## Tecnologias que estou aprendendo
 <div style="display: inline_block"><br>
