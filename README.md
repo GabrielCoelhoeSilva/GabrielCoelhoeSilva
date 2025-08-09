@@ -1,5 +1,3 @@
-## Olá! Eu sou o Gabriel Coelho 👋
-
 # Olá, eu sou o Gabriel 👋
 
 ## 🔹 Sobre Mim
