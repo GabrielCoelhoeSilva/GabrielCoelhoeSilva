@@ -18,10 +18,6 @@ Meu foco é me aprofundar no desenvolvimento de software e ampliar meus conhecim
 ## 🔹 Contribuições e Projetos
 Estou construindo projetos pessoais para aprimorar minhas habilidades práticas e ampliar meu portfólio. Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução.
 
-🚀 Vamos construir soluções juntos!
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCoelhoeSilva&show_icons=true&theme=radical)
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCoelhoeSilva&show_icons=true&theme=radical)
 
 ## Tecnologias que estou aprendendo
 <div style="display: inline_block"><br>
