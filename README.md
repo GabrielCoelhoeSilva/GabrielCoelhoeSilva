@@ -27,6 +27,8 @@ Estou construindo projetos pessoais para aprimorar minhas habilidades práticas 
   <img align="center" alt="Gab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+ ![Snake animation](https://github.com/GabrielCoelhoeSilva/GabrielCoelhoeSilva/blob/output/github-contribution-grid-snake.svg)   <img align="right" alt="Aline-gif" height="150" style="border-radius:50px;" src=  "https://media.giphy.com/media/03njSXxICKzw5otlxL/giphy.gif?cid=790b76119e03ac33d17d0f4adbf27d012258b6571736d5f2&rid=giphy.gif&ct=g">
+
 
 
 
