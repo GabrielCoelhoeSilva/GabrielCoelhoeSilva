@@ -1,31 +1,70 @@
-# Olá, eu sou o Gabriel 👋
+# 🧑‍💻 Gabriel Coelho
 
-## 🔹 Sobre Mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com o objetivo de me tornar **Engenheiro de Software**. Estou constantemente em busca de aprender e aprimorar minhas habilidades para construir soluções inovadoras e de impacto no mundo da tecnologia.
+**`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-## 🔹 Tecnologias e Ferramentas
-Atualmente, estou estudando as seguintes tecnologias:
+## 🔹 Sobre Mim  
+Meu nome é Gabriel Coelho, tenho 20 anos e curso Análise e Desenvolvimento de Sistemas. Estudo para me tornar um Desenvolvedor FullStack, aprimorando minhas habilidades diariamente, enquanto desenvolvo projetos pessoais para fortalecer meu portfólio e consolidar meus conhecimentos em programação.  
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Python  
-- **Banco de Dados:** SQL  
-- **Versionamento de Código:** Git, GitHub  
-- **Metodologias Ágeis:** Kanban, Scrum
+### 🔹 Tecnologias que já utilizo
 
-## 🔹 Objetivos
-Meu foco é me aprofundar no desenvolvimento de software e ampliar meus conhecimentos em diversas áreas para, no futuro, atuar como **Engenheiro de Software**. Busco também trabalhar de forma ágil e colaborativa, aplicando as melhores práticas de desenvolvimento e gestão de projetos.
-
-## 🔹 Contribuições e Projetos
-Estou construindo projetos pessoais para aprimorar minhas habilidades práticas e ampliar meu portfólio. Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução.
-
-
-## Tecnologias que estou aprendendo
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gab-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gab-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gab-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gab-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Gab-GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Gab-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+
+### 🔹 Tecnologias que estou estudando  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gab-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Gab-Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Gab-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gab-Oracle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+</div>
+
+## 🔹 Objetivos  
+- Me tornar um desenvolvedor completo, com domínio em backend, frontend e bancos de dados.  
+- Trabalhar com metodologias ágeis, boas práticas e arquitetura limpa.  
+- Evoluir constantemente para atuar como **Engenheiro de Software**.
+
+## 🔹 Projetos e Contribuições  
+Estou sempre desenvolvendo novos projetos para fortalecer minhas habilidades e construir um portfólio sólido.  
+Fique à vontade para explorar meus repositórios e acompanhar minha evolução!# 🧑‍💻 Gabriel Coelho
+
+**`Estudante de Análise e Desenvolvimento de Sistemas`**
+
+## 🔹 Sobre Mim  
+Meu nome é Gabriel Coelho, tenho 20 anos e curso Análise e Desenvolvimento de Sistemas. Estudo para me tornar um Desenvolvedor FullStack, aprimorando minhas habilidades diariamente, enquanto desenvolvo projetos pessoais para fortalecer meu portfólio e consolidar meus conhecimentos em programação.  
+
+### 🔹 Tecnologias que já utilizo
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gab-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gab-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gab-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gab-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Gab-GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Gab-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
+### 🔹 Tecnologias que estou estudando  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gab-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Gab-Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Gab-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gab-Oracle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+</div>
+
+## 🔹 Objetivos  
+- Me tornar um desenvolvedor completo, com domínio em backend, frontend e bancos de dados.  
+- Trabalhar com metodologias ágeis, boas práticas e arquitetura limpa.  
+- Evoluir constantemente para atuar como **Engenheiro de Software**.
+
+## 🔹 Projetos e Contribuições  
+Estou sempre desenvolvendo novos projetos para fortalecer minhas habilidades e construir um portfólio sólido.  
+Fique à vontade para explorar meus repositórios e acompanhar minha evolução!
 
 ![Snake animation](https://raw.githubusercontent.com/GabrielCoelhoeSilva/GabrielCoelhoeSilva/output/github-contribution-grid-snake.svg)
 
