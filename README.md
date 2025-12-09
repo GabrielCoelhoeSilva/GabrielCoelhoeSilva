@@ -31,7 +31,7 @@ Meu nome é Gabriel Coelho, tenho 20 anos e curso Análise e Desenvolvimento de 
 
 ## 🔹 Projetos e Contribuições  
 Estou sempre desenvolvendo novos projetos para fortalecer minhas habilidades e construir um portfólio sólido.  
-Fique à vontade para explorar meus repositórios e acompanhar minha evolução!# 🧑‍💻 Gabriel Coelho
+Fique à vontade para explorar meus repositórios e acompanhar minha evolução!# 
 
 
 
