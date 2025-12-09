@@ -1,39 +1,37 @@
-# 🧑‍💻 Gabriel Coelho
+## 🔹 Sobre Mim  
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-## 🔹 Sobre Mim  
-Meu nome é Gabriel Coelho, tenho 20 anos e curso Análise e Desenvolvimento de Sistemas. Estudo para me tornar um Desenvolvedor FullStack, aprimorando minhas habilidades diariamente, enquanto desenvolvo projetos pessoais para fortalecer meu portfólio e consolidar meus conhecimentos em programação.  
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; font-size: 16px;">
+    Meu nome é Gabriel Coelho, tenho 20 anos e curso Análise e Desenvolvimento de Sistemas.  
+    Atualmente estudo com foco em me tornar um Desenvolvedor FullStack, aprofundando meus conhecimentos em lógica de programação, Python, HTML, CSS, JavaScript e Banco de Dados.  
+    Sou apaixonado por tecnologia e sempre busco aprender algo novo todos os dias.  
+    Estou desenvolvendo projetos pessoais para aprimorar minhas habilidades, fortalecer meu portfólio e me preparar para oportunidades reais no mercado de trabalho.  
+    Meu objetivo é me tornar um profissional capaz de criar soluções completas, eficientes e com boas práticas de desenvolvimento.
+  </div>
 
-### 🔹 Tecnologias que já utilizo
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gab-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gab-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gab-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gab-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Gab-GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Gab-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ5NXc5NjlkMXppN2M1bHFpbzE1YmFmdzY2Y2thcWJoOTdyd3Y3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="260" style="margin-left: 20px; border-radius: 10px;">
 </div>
+    <a href="https://www.linkedin.com/in/gabriel-coelhodev/" target='blank'><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jhonattanromao" alt="LinkedIn" width=100px/></a>
+  
+---
 
-### 🔹 Tecnologias que estou estudando  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gab-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Gab-Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Gab-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gab-Oracle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-</div>
+---
 
-## 🔹 Objetivos  
-- Me tornar um desenvolvedor completo, com domínio em backend, frontend e bancos de dados.  
-- Trabalhar com metodologias ágeis, boas práticas e arquitetura limpa.  
-- Evoluir constantemente para atuar como **Engenheiro de Software**.
+## 🔹 Tecnologias que já utilizo
 
-## 🔹 Projetos e Contribuições  
-Estou sempre desenvolvendo novos projetos para fortalecer minhas habilidades e construir um portfólio sólido.  
-Fique à vontade para explorar meus repositórios e acompanhar minha evolução!# 
+| HTML | CSS | Python | Git | GitHub | MySQL |
+|------|------|---------|------|--------|--------|
+| <img src="https://skillicons.dev/icons?i=html" width="45"/> | <img src="https://skillicons.dev/icons?i=css" width="45"/> | <img src="https://skillicons.dev/icons?i=python" width="45"/> | <img src="https://skillicons.dev/icons?i=git" width="45"/> | <img src="https://skillicons.dev/icons?i=github" width="45"/> | <img src="https://skillicons.dev/icons?i=mysql" width="45"/> |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoelhoeSilva&layout=compact)
+---
+
+## 🔹 Tecnologias que estou estudando
+
+| JavaScript | Node | React | Java |
+|------------|-------|--------|-------|
+| <img src="https://skillicons.dev/icons?i=javascript" width="45"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> | <img src="https://skillicons.dev/icons?i=react" width="45"/> | <img src="https://skillicons.dev/icons?i=java" width="45"/> |
 
 
 
