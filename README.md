@@ -33,6 +33,9 @@ Meu nome é Gabriel Coelho, tenho 20 anos e curso Análise e Desenvolvimento de 
 Estou sempre desenvolvendo novos projetos para fortalecer minhas habilidades e construir um portfólio sólido.  
 Fique à vontade para explorar meus repositórios e acompanhar minha evolução!# 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoelhoeSilva&layout=compact)
+
+
 
 
 ![Snake animation](https://raw.githubusercontent.com/GabrielCoelhoeSilva/GabrielCoelhoeSilva/output/github-contribution-grid-snake.svg)
