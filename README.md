@@ -17,8 +17,15 @@
   </tr>
 </table>
 
-  <a href="https://www.linkedin.com/in/gabriel-coelhodev/" target='blank'><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jhonattanromao" alt="LinkedIn" width=100px/></a>
-  
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-coelhodev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gabrielcoelho7e7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ---
