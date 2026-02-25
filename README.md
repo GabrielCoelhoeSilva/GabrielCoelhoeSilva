@@ -44,6 +44,23 @@
 |------------|-------|--------|-------|
 | <img src="https://skillicons.dev/icons?i=javascript" width="45"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> | <img src="https://skillicons.dev/icons?i=react" width="45"/> | <img src="https://skillicons.dev/icons?i=java" width="45"/> |
 
+---
+
+## 🔹 Soft Skills
+
+🧠 **Aprendizado Contínuo**  
+Estou sempre estudando e buscando evoluir minhas habilidades técnicas e pessoais todos os dias.
+
+🤝 **Trabalho em Equipe**  
+Valorizo colaboração, comunicação clara e troca de conhecimento.
+
+
+⏳ **Organização e Disciplina**  
+Mantenho rotina de estudos constante e organização nos meus projetos e versionamento de código.
+
+🎯 **Foco em Evolução Profissional**  
+Tenho objetivos claros na área de desenvolvimento e trabalho diariamente para me tornar um Desenvolvedor FullStack completo.
+
 
 
 
