@@ -1,15 +1,12 @@
 ## 🔹 Sobre Mim  
-
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
 <table>
   <tr>
     <td>
-      Meu nome é Gabriel Coelho, tenho 20 anos e curso Análise e Desenvolvimento de Sistemas.  
-      Atualmente estudo com foco em me tornar um Desenvolvedor FullStack, aprofundando meus conhecimentos em lógica de programação, Python, HTML, CSS, JavaScript e Banco de Dados.  
-      Sou apaixonado por tecnologia e sempre busco aprender algo novo todos os dias.  
-      Estou desenvolvendo projetos pessoais para aprimorar minhas habilidades, fortalecer meu portfólio e me preparar para oportunidades reais no mercado de trabalho.  
-      Meu objetivo é me tornar um profissional capaz de criar soluções completas, eficientes e com boas práticas de desenvolvimento.
+     Meu nome é Gabriel Coelho, tenho 20 anos e curso Análise e Desenvolvimento de Sistemas. Atualmente estudo com foco em me tornar um Desenvolvedor Backend, aprofundando meus conhecimentos em lógica de programação, Java, Spring Boot, Python e Banco de Dados.
+      Tenho grande interesse em desenvolvimento de software e busco constantemente aprimorar minhas competências técnicas por meio de estudos, prática e desenvolvimento de projetos. Estou criando projetos pessoais para fortalecer meu portfólio, consolidar conhecimentos e me preparar para desafios reais do mercado de trabalho.
+Meu objetivo é me tornar um profissional capaz de desenvolver APIs e sistemas robustos, escaláveis e alinhados às melhores práticas de engenharia de software.
     </td>
     <td>
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ5NXc5NjlkMXppN2M1bHFpbzE1YmFmdzY2Y2thcWJoOTdyd3Y3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="260" style="border-radius: 10px;" />
@@ -28,21 +25,19 @@
 
 ---
 
----
-
 ## 🔹 Tecnologias que já utilizo
 
-| HTML | CSS | Python | Git | GitHub | MySQL |
-|------|------|---------|------|--------|--------|
-| <img src="https://skillicons.dev/icons?i=html" width="45"/> | <img src="https://skillicons.dev/icons?i=css" width="45"/> | <img src="https://skillicons.dev/icons?i=python" width="45"/> | <img src="https://skillicons.dev/icons?i=git" width="45"/> | <img src="https://skillicons.dev/icons?i=github" width="45"/> | <img src="https://skillicons.dev/icons?i=mysql" width="45"/> |
+| HTML | CSS | Python | Java | Git | GitHub | PostgreSQL |
+|------|------|---------|-------|------|--------|------------|
+| <img src="https://skillicons.dev/icons?i=html" width="45"/> | <img src="https://skillicons.dev/icons?i=css" width="45"/> | <img src="https://skillicons.dev/icons?i=python" width="45"/> | <img src="https://skillicons.dev/icons?i=java" width="45"/> | <img src="https://skillicons.dev/icons?i=git" width="45"/> | <img src="https://skillicons.dev/icons?i=github" width="45"/> | <img src="https://skillicons.dev/icons?i=postgres" width="45"/> |
 
 ---
 
 ## 🔹 Tecnologias que estou estudando
 
-| JavaScript | Node | React | Java |
-|------------|-------|--------|-------|
-| <img src="https://skillicons.dev/icons?i=javascript" width="45"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> | <img src="https://skillicons.dev/icons?i=react" width="45"/> | <img src="https://skillicons.dev/icons?i=java" width="45"/> |
+| Spring Boot | Docker |
+|-------------|--------|
+| <img src="https://skillicons.dev/icons?i=spring" width="45"/> | <img src="https://skillicons.dev/icons?i=docker" width="45"/> |
 
 ---
 
@@ -54,12 +49,12 @@ Estou sempre estudando e buscando evoluir minhas habilidades técnicas e pessoai
 🤝 **Trabalho em Equipe**  
 Valorizo colaboração, comunicação clara e troca de conhecimento.
 
-
 ⏳ **Organização e Disciplina**  
 Mantenho rotina de estudos constante e organização nos meus projetos e versionamento de código.
 
 🎯 **Foco em Evolução Profissional**  
-Tenho objetivos claros na área de desenvolvimento e trabalho diariamente para me tornar um Desenvolvedor FullStack completo.
+Tenho objetivos claros na área de desenvolvimento e trabalho diariamente para me tornar um Desenvolvedor Backend completo.
+
 
 
 
